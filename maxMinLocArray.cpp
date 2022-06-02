@@ -44,7 +44,7 @@ int main()
     int arr[num];
     for(int i=1;i<=num;i++)
     {
-        cout<<"Enter element "<<i<<" index element: ";
+        cout<<"Enter index "<<i<<" of element: ";
         cin>>arr[i];
     }
 
