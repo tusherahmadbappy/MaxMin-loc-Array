@@ -1,2 +1,2 @@
 # MaxMin-loc-Array
-Find out Maximum &amp; Minimum with location of an array
+Find out the Maximum and Minimum with their location of an array
